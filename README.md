@@ -11,6 +11,12 @@ Got someone to add? Pull request or email sam@pizzey.me if you don't want to for
 * **They hire**: Penetration Testers.
 * **From**: The USA.
 * **More Info**: [Their LinkedIn](https://www.linkedin.com/company/fusionx-llc/careers), for some reason.
+ 
+### Include Security
+* **They do**: Penetration testing, Code Review
+* **They hire**: Seems to be primarily AppSec types?
+* **From**: Anywhere in North/South America or Europe.
+* **More Info**: Careers page is [here](http://www.includesecurity.com/careers.html).
 
 ### Patchman
 * **They do**: Vulnerability management for web hosting companies.
