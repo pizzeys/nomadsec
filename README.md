@@ -30,6 +30,12 @@ Got someone to add? Pull request or email sam@pizzey.me if you don't want to for
 * **From**: Anywhere, I think?
 * **More Info**: Careers page is [here](https://www.shapesecurity.com/jobs/).
 
+### Sucuri
+* **They do**: Cloud-based WAF.
+* **They hire**: Developers, Security Analysts, Support.
+* **From**: Anywhere.
+* **More Info**: Careers page is [here](https://sucuri.net/company/employment/).
+
 ### Swimlane
 * **They do**: Automated incident response.
 * **They hire**: Developers, Incident Response, Support.
