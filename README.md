@@ -30,6 +30,12 @@ Got someone to add? Pull request or email sam@pizzey.me if you don't want to for
 * **From**: Anywhere, I think?
 * **More Info**: Careers page is [here](https://www.shapesecurity.com/jobs/).
 
+### Stratum Security
+* **They do**: Penetration testing, code review.
+* **They hire**: 'Application Security Consultants' - check the page for more info.
+* **From**: Anywhere, I think. /Possibly/ limited to USA, will clarify with them.
+* **More Info**: Careers page is [here](https://stratumsecurity.com/company/careers/).
+
 ### Sucuri
 * **They do**: Cloud-based WAF.
 * **They hire**: Developers, Security Analysts, Support.
